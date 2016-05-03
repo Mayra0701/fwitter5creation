@@ -1,0 +1,65 @@
+.error p {
+  color: ;
+  margin-top: 15px;
+}
+
+#follow-btn {
+  margin-left: 10px;
+  display:inline-block;
+}
+
+.footer {
+  margin-top: 25px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  text-align: center;
+background: url(http://cdn.pcwallart.com/images/most-beautiful-sunset-wallpaper-3.jpg);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  border-color: #fff #fff transparent;
+    opacity: 0.3;
+  
+}
+
+ul li a {
+  background-color:rgba(255,255,255,1)
+}
+
+.nav {
+font-size: 20pxs;
+font-family: 'Niconne', cursive;
+  
+}
+
+li {
+    background-color: transparent;
+}
+ 
+.nav-tabs {
+  font-size: 23px;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.ls {
+  float: left;
+  margin-top: 67px;
+}
+
+
+
+
+
+
